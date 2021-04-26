@@ -1,3 +1,3 @@
-# angular-ivy-cqtdf2
+# chat-app-angular-etf36n
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-cqtdf2)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/chat-app-angular-etf36n)
